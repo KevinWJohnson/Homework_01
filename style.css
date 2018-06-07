@@ -1,0 +1,120 @@
+/**
+ * Building a Wireframe Styles
+ **/
+
+
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #777;
+    width: 960px;
+    font-size: 18px;
+}
+
+h1 {
+    color: #777;
+    background: #ebebeb; 
+}
+
+p {
+    color: #777;
+    background: #ebebeb; 
+}
+
+header {
+    text-align: center;
+    background: #ebebeb;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+nav {
+    text-align: center;
+        background: #ebebeb;
+        font-size: 18px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+}
+
+aside {
+    text-align: center;
+    width: 445px;
+    background: #ebebeb;
+    float: right;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 320px;
+
+}
+
+#LeftSection {
+    text-align: center;
+        width: 495px;
+        background: #ebebeb;
+        float: left;
+        font-size: 18px;
+        margin-top: 5px;
+        margin-bottom: 20px;
+        padding-top: 20px;
+        padding-bottom: 30px;     
+}
+
+article {
+    text-align: center;
+    color: #ebebeb;
+    background: #777;
+    font-size: 18px;
+    width: 445px;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 0px; 
+    border: 0px;
+    height: 250px;
+
+}
+
+#h1h2h3 {
+    text-align: center;
+    color: #777;
+    background: #ebebeb;
+    clear: both;
+    font-size: 18px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#para {
+    text-align: center;
+    color: #777;
+    background: #ebebeb;
+    clear: both;
+    font-size: 18px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+footer {
+    text-align: center;
+    background: #ebebeb;
+    clear: both;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
